@@ -1,21 +1,21 @@
 class Solution {
     public int sumSubarrayMins(int[] arr) {
         final int MOD = 1000000007;
-        Stack<Integer> stack = new Stack<>();
+        Stack<Integer> st = new Stack<>();
         long sumOfMinimums = 0;
 
         for (int i = 0; i <= arr.length; i++) {
-            while (!stack.isEmpty() && (i == arr.length || arr[stack.peek()] >= arr[i])) {
+            while (!st.isEmpty() && (i == arr.length || arr[st.peek()] >= arr[i])) {
                 
                 // Get the index of the current minimum
-                int mid = stack.pop();
+                int mid = st.pop();
                 
                 // Find the left boundary index (previous smaller element)
                 int leftBoundary;
-                if (stack.isEmpty()) {
+                if (st.isEmpty()) {
                     leftBoundary = -1;
                 } else {
-                    leftBoundary = stack.peek();
+                    leftBoundary = st.peek();
                 }
                 
                 // Set the right boundary index (next smaller element or end of array)
@@ -34,7 +34,7 @@ class Solution {
                 sumOfMinimums %= MOD;
             }
             // Push the current index to the stack
-            stack.push(i);
+            st.push(i);
         }
 
         // Return the result as an integer
