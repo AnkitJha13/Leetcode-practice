@@ -13,7 +13,8 @@ class Solution {
                 long subarraysLeft = mid - leftBoundary;
                 long subarraysRight = rightBoundary - mid;
                 long count = subarraysLeft * subarraysRight;
-                sumOfMinimums += count * nums[mid];
+                long subarraySum = count * nums[mid];
+                sumOfMinimums += subarraySum;
             }
             st.push(i);
         }
@@ -30,7 +31,8 @@ class Solution {
                 long subarraysLeft = mid - leftBoundary;
                 long subarraysRight = rightBoundary - mid;
                 long count = subarraysLeft * subarraysRight;
-                sumOfMaximums += count * nums[mid];
+                long subarraySum = count * nums[mid];
+                sumOfMaximums += subarraySum;
             }
             st.push(i);
         }
