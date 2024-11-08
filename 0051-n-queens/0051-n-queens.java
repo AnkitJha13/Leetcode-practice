@@ -1,21 +1,21 @@
 
 class Solution {
-    private void backtrack(List<List<String>> solutions, char[][] board, int row, int n) {
+    private void solveQueens(List<List<String>> solutions, char[][] board, int row, int n) {
         if (row == n) {
-            solutions.add(createBoard(board));
+            solutions.add(convertBoardToList(board));
             return;
         }
         
         for (int col = 0; col < n; col++) {
-            if (isSafe(board, row, col, n)) {
+            if (canPlaceQueen(board, row, col, n)) {
                 board[row][col] = 'Q'; // Place queen
-                backtrack(solutions, board, row + 1, n); // Recurse for next row
+                solveQueens(solutions, board, row + 1, n); // Recurse for next row
                 board[row][col] = '.'; // Backtrack
             }
         }
     }
     
-    private boolean isSafe(char[][] board, int row, int col, int n) {
+    private boolean canPlaceQueen(char[][] board, int row, int col, int n) {
         // Check vertical up
         for (int i = 0; i < row; i++) {
             if (board[i][col] == 'Q') {
@@ -40,7 +40,7 @@ class Solution {
         return true;
     }
     
-    private List<String> createBoard(char[][] board) {
+    private List<String> convertBoardToList(char[][] board) {
         List<String> result = new ArrayList<>();
         for (int i = 0; i < board.length; i++) {
             result.add(new String(board[i]));
@@ -58,7 +58,7 @@ class Solution {
             }
         }
         
-        backtrack(solutions, board, 0, n);
+        solveQueens(solutions, board, 0, n);
         return solutions;
     }
 }
