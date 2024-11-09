@@ -35,10 +35,10 @@ class Solution {
         }
 
         // Check 3x3 grid
-        int sr = (row / 3) * 3;
-        int sc = (col / 3) * 3;
-        for (int i = sr; i < sr + 3; i++) {
-            for (int j = sc; j < sc + 3; j++) {
+        int gridRow = (row / 3) * 3;
+        int gridCol = (col / 3) * 3;
+        for (int i = gridRow; i < gridRow + 3; i++) {
+            for (int j = gridCol; j < gridCol + 3; j++) {
                 if (board[i][j] == digit) {
                     return false;
                 }
