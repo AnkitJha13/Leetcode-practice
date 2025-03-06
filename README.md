@@ -30,4 +30,12 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
