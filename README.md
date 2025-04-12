@@ -4,6 +4,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -21,10 +23,12 @@
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0813-all-paths-from-source-to-target) |
