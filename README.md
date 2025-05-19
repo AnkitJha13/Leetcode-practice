@@ -53,6 +53,7 @@
 | [0816-design-hashset](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0817-design-hashmap) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
