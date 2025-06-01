@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0792-binary-search) |
@@ -67,6 +68,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
 |  |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0792-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
