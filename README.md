@@ -51,6 +51,7 @@
 | [0027-remove-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0027-remove-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0817-design-hashmap) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
