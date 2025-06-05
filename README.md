@@ -51,6 +51,7 @@
 | [0027-remove-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0792-binary-search) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
 |  |
