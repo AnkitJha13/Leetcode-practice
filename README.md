@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0733-flood-fill) |
@@ -86,6 +87,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0041-first-missing-positive) |
 | [0816-design-hashset](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0817-design-hashmap) |
 ## Linked List
