@@ -66,6 +66,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0908-middle-of-the-linked-list) |
 ## Backtracking
@@ -105,6 +106,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0908-middle-of-the-linked-list) |
@@ -149,4 +151,9 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0234-palindrome-linked-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
