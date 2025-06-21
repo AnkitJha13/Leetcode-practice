@@ -8,7 +8,7 @@ class Solution {
                 maxDiff = Math.max(maxDiff, nums[j]-minVal);
             }
             else{
-                minVal = nums[j];
+                minVal = nums[j]; // this val keeps updating if the next no is small in array
             }
         }
 
