@@ -24,8 +24,9 @@ class Solution {
         }
 
 
-        int newTarget = targetSum - root.val;
+        int newTarget = targetSum - root.val;  // keeps decreasing the targetSum
 
         return (hasPathSum(root.left, newTarget) || hasPathSum(root.right, newTarget));
+        // Try left subtree first; if no path found, backtrack and try right subtree
     }
 }
