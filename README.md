@@ -4,6 +4,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0733-flood-fill) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0801-is-graph-bipartite) |
@@ -37,12 +39,14 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Array
