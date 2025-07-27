@@ -52,6 +52,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0041-first-missing-positive) |
@@ -104,6 +105,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0816-design-hashset](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0816-design-hashset) |
