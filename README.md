@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0054-spiral-matrix) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0344-reverse-string) |
