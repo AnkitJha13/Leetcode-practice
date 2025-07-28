@@ -139,6 +139,7 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -176,4 +178,8 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
