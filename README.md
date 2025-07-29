@@ -59,6 +59,7 @@
 | [0053-maximum-subarray](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -110,6 +111,7 @@
 | [0001-two-sum](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0169-majority-element) |
 | [0816-design-hashset](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0817-design-hashmap) |
 ## Linked List
@@ -134,6 +136,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Math
@@ -151,6 +154,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
@@ -182,4 +186,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0258-add-digits) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
