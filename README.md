@@ -61,6 +61,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0414-third-maximum-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0733-flood-fill) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Math
