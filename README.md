@@ -71,6 +71,7 @@
 | [0817-design-hashmap](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0817-design-hashmap) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1677-matrix-diagonal-sum](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/AnkitJha13/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
@@ -108,6 +109,7 @@
 | [0054-spiral-matrix](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0733-flood-fill) |
+| [1677-matrix-diagonal-sum](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/AnkitJha13/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
