@@ -83,6 +83,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0908-middle-of-the-linked-list) |
 ## Backtracking
 |  |
@@ -152,11 +153,13 @@
 | ------- |
 | [0258-add-digits](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [3227-find-missing-and-repeated-values](https://github.com/AnkitJha13/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0633-sum-of-square-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
