@@ -159,6 +159,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [3227-find-missing-and-repeated-values](https://github.com/AnkitJha13/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
@@ -190,6 +191,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |
