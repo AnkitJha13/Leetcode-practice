@@ -8,6 +8,6 @@ class Solution {
             }
         }
 
-        return k;  // it will return new size of array
+        return k;
     }
 }
