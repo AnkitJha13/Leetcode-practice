@@ -163,6 +163,7 @@
 | [0342-power-of-four](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/AnkitJha13/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
