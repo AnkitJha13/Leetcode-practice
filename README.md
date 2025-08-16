@@ -163,6 +163,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0326-power-of-three) |
@@ -200,6 +201,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0342-power-of-four) |
@@ -228,6 +230,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
