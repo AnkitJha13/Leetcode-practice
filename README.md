@@ -133,6 +133,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0817-design-hashmap) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0203-remove-linked-list-elements](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0342-power-of-four) |
