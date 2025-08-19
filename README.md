@@ -78,6 +78,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2836-neither-minimum-nor-maximum](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2836-neither-minimum-nor-maximum) |
 | [3227-find-missing-and-repeated-values](https://github.com/AnkitJha13/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -163,6 +164,7 @@
 | [0941-sort-array-by-parity](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2836-neither-minimum-nor-maximum) |
 ## Math
 |  |
 | ------- |
