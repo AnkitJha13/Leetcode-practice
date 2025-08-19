@@ -77,6 +77,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2836-neither-minimum-nor-maximum) |
 | [3227-find-missing-and-repeated-values](https://github.com/AnkitJha13/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
@@ -164,6 +165,7 @@
 | [0941-sort-array-by-parity](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2836-neither-minimum-nor-maximum) |
 ## Math
 |  |
@@ -238,4 +240,8 @@
 | [0231-power-of-two](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0342-power-of-four) |
+## Greedy
+|  |
+| ------- |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 <!---LeetCode Topics End-->
