@@ -179,6 +179,7 @@
 | [0633-sum-of-square-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2491-smallest-even-multiple](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2491-smallest-even-multiple) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/AnkitJha13/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
