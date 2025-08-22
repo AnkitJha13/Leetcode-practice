@@ -74,6 +74,7 @@
 | [0941-sort-array-by-parity](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
