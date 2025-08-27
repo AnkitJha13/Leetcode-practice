@@ -136,6 +136,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0816-design-hashset](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0817-design-hashmap) |
 | [3227-find-missing-and-repeated-values](https://github.com/AnkitJha13/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0941-sort-array-by-parity) |
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0953-reverse-only-letters](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0953-reverse-only-letters) |
 ## Recursion
 |  |
@@ -250,6 +253,7 @@
 | [0231-power-of-two](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0389-find-the-difference) |
 ## Greedy
 |  |
 | ------- |
