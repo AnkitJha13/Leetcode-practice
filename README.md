@@ -75,6 +75,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0958-sort-array-by-parity-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -185,6 +186,7 @@
 | [0342-power-of-four](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2491-smallest-even-multiple](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2491-smallest-even-multiple) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2608-count-the-digits-that-divide-a-number) |
