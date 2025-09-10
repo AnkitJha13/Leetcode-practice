@@ -1,12 +1,17 @@
 class Solution {
     public int[] sumZero(int n) {
-        int[] result = new int[n];
+        int res[] = new int[n];
+        int index = 0;
 
-        for(int i=0;i<n-1;i+=2){
-            result[i] = i+1;
-            result[i+1] = -(i+1);
+        for(int i=1;i<=n/2;i++){
+            res[index++] = i;
+            res[index++] = -i;
         }
 
-        return result;
+        if(n % 2 == 1){
+            res[index] = 0;
+        }
+
+        return res;
     }
 }
