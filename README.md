@@ -62,6 +62,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0414-third-maximum-number) |
@@ -93,6 +94,7 @@
 | [0027-remove-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
@@ -179,6 +181,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0268-missing-number) |
