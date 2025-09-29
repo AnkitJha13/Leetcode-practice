@@ -181,6 +181,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0258-add-digits) |
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
