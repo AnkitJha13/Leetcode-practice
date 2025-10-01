@@ -2,7 +2,7 @@ class Solution {
 
     // Count the number of prime numbers less than n
     public int countPrimes(int n) {
-        if (n <= 2) return 0; // No primes less than 2
+        if (n < 2) return 0; // No primes less than 2
 
         boolean[] primes = new boolean[n]; // Boolean array to track primes
         for (int i = 2; i < n; i++) {
