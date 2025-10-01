@@ -63,6 +63,7 @@
 | [0136-single-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0414-third-maximum-number) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0268-missing-number) |
@@ -247,6 +249,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2491-smallest-even-multiple) |
 ## Counting
@@ -265,4 +268,8 @@
 |  |
 | ------- |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
