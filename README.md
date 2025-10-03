@@ -183,6 +183,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0231-power-of-two) |
@@ -200,6 +201,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
