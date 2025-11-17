@@ -92,6 +92,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0031-next-permutation) |
@@ -150,6 +151,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0203-remove-linked-list-elements) |
