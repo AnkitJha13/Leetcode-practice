@@ -109,6 +109,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0958-sort-array-by-parity-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2481-strictly-palindromic-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2481-strictly-palindromic-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -201,6 +202,7 @@
 | [0633-sum-of-square-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2481-strictly-palindromic-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2491-smallest-even-multiple) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/AnkitJha13/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
@@ -283,4 +285,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0204-count-primes) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
