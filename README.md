@@ -66,6 +66,7 @@
 | [0204-count-primes](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -99,6 +100,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0908-middle-of-the-linked-list) |
@@ -208,6 +210,7 @@
 | [0069-sqrtx](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitJha13/Leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -269,6 +272,7 @@
 | [0136-single-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AnkitJha13/Leetcode-practice/tree/master/0389-find-the-difference) |
 ## Greedy
